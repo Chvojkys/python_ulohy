@@ -1,0 +1,8 @@
+jmeno = input("Zadej své méno: ")
+print("ahoj světe!")
+print("\n")
+print("-------------")
+print(" jméno:" + jmeno )
+print(" obor: IT")
+print("-------------")
+print("\n")
