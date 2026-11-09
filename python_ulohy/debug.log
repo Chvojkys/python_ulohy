@@ -1,0 +1,2 @@
+[1019/113455.222:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Systém nemůže nalézt uvedený soubor. (0x2)
+[1019/113455.647:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Systém nemůže nalézt uvedený soubor. (0x2)

@@ -1,0 +1,3 @@
+hodnoty = sorted(int(input(f"zadej {x}: ")) for x in (" první", "druhou", "třetí"))
+print("Seřazené hodnoty:", *hodnoty)
+
